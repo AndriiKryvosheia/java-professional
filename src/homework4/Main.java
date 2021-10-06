@@ -2,9 +2,7 @@ package homework4;
 
 import java.io.*;
 import java.time.*;
-import java.time.temporal.TemporalAdjusters;
 import java.util.*;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Main {
